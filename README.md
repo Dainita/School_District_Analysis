@@ -36,5 +36,6 @@ The PyCitySchools Analysis is performed to determine how the 9th grade scores fo
   - Scores by school type of Charter were decreased 
 
 ## School_District Analysis Summary
+School_District_Analysis(https://github.com/Dainita/School_District_Analysis)
 
 This PyCity Schools Analysis was minimally affected by removing the 9th grade scores for Thomas High School. The lowered score results may not confirm any alteration of the data, but removal of the scores provides assurance of the data accuracy. The overall Thomas High School passing percentages were lowered below 70% when calculated on the total student population after removing the ninth grade scores. This measure would not be accurate as not all ninth grade scores should be assumed as failing. A more accurate result is returned by also removing the count of the ninth grade students from the total school population.
