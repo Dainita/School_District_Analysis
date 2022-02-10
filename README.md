@@ -8,33 +8,33 @@ The PyCitySchools Analysis is performed to determine how the 9th grade scores fo
 
 ## School_District Analysis Results
 
-District Summary 
-  Average Math Score decreased from 79.0 to 78.9
-  Average Reading Score remained at 81.9
-  % Passing Math decreased from 75% to 74.8%
-  % Passing Reading decreased from 86 to 85.7%
-  % Overall Passing decreased from 65% to 64.9%
+-District Summary 
+  -Average Math Score decreased from 79.0 to 78.9
+  -Average Reading Score remained at 81.9
+  -% Passing Math decreased from 75% to 74.8%
+  -% Passing Reading decreased from 86 to 85.7%
+  -% Overall Passing decreased from 65% to 64.9%
  
-School Summary
-  Only Thomas High School results were affected
-  Average Math Score decreased from 83.418349 to 83.350937
-  Average Reading Score increased from 83.848930 to 83.896082
-  % Passing Math decreased from  93.272171 to 93.185690
-  % Passing Reading decreased from 97.308869 to 97.018739
-  % Overall Passing decreased from 90.948012	to 90.630324
+-School Summary
+  -Only Thomas High School results were affected
+    -Average Math Score decreased from 83.418349 to 83.350937
+    -Average Reading Score increased from 83.848930 to 83.896082
+    -% Passing Math decreased from  93.272171 to 93.185690
+    -% Passing Reading decreased from 97.308869 to 97.018739
+    -% Overall Passing decreased from 90.948012	to 90.630324
 
-Replacing the ninth graders scores does not affert Thomas High School's performance relative to other schools. After removing ninth grade scores, the top five performing schools remains the same. 
-  Cabrera High School	
-  Thomas High School	
-  Griffin High School	
-  Wilson High School	
-  Pena High School	
+-Replacing the ninth graders scores does not affert Thomas High School's performance relative to other schools. After removing ninth grade scores, the top five performing schools remains the same. 
+  -Cabrera High School	
+  -Thomas High School	
+  -Griffin High School	
+  -Wilson High School	
+  -Pena High School	
 
-Replacing the ninth-grade scores also affected the following:
-  Math and reading scores by grade for Thomas High School were replaced by NaN
-  Scores by school spending in the $630-644 range were decreased
-  Scores by school size in the Medium (1000-2000) category were decreased
-  Scores by school type of Charter were decreased 
+-Replacing the ninth-grade scores also affected the following:
+  -Math and reading scores by grade for Thomas High School were replaced by NaN
+  -Scores by school spending in the $630-644 range were decreased
+  -Scores by school size in the Medium (1000-2000) category were decreased
+  -Scores by school type of Charter were decreased 
 
 ## School_District Analysis Summary
 
